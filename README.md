@@ -12,4 +12,4 @@
 ![](https://github.com/Kai0522/2019_Modern_Control_Midterm_Test/blob/master/sample/Phase_lead.jpg) 
 
 ### (3)  
-![]() 
+![](https://github.com/Kai0522/2019_Modern_Control_Midterm_Test/blob/master/sample/After.jpg) 
